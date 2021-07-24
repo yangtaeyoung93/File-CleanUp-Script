@@ -1,3 +1,5 @@
+//파일을 확장자별로 분류하여 파일을 정리하고, 편집된 이미지 파일을 따로 정리하는 기능
+
 
 const path = require('path');
 const os = require('os');
